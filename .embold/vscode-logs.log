@@ -1,0 +1,52 @@
+2023-11-18 09:24:13 info: tempDirectory:c:\Users\duidu\.vscode-insiders\extensions\embold-vscode.embold-0.1.6\temp
+2023-11-18 09:24:13 info: Congratulations, your extension "Embold" is now active!
+2023-11-18 09:24:13 info: Current Version Of Embold
+2023-11-18 09:24:13 info: 0.1.6
+2023-11-18 09:24:13 info: Extraction complete for source: c:\Users\duidu\.vscode-insiders\extensions\embold-vscode.embold-0.1.6\resources\embold-scanner-archive.zip, destination: c:\Users\duidu\.vscode-insiders\extensions\embold-vscode.embold-0.1.6\temp
+2023-11-18 09:24:22 info: Embold extension version response:
+2023-11-18 09:24:22 info: {"hasSupport":false,"version":"0.9.0.64","changeNotes":"<div> <p>Release Date: 05 May 2022 <br><span>Embold has added 6 new Java rules that will make your code more secure!</span></p> </div>"}
+2023-11-18 09:24:22 info: current version : 
+2023-11-18 09:24:22 info: latest version : 
+2023-11-18 09:28:27 error: SQLITE_ERROR: no such table: issues
+2023-11-18 09:50:07 info: tempDirectory:c:\Users\duidu\.vscode-insiders\extensions\embold-vscode.embold-0.1.6\temp
+2023-11-18 09:50:07 info: Congratulations, your extension "Embold" is now active!
+2023-11-18 09:50:07 info: Current Version Of Embold
+2023-11-18 09:50:07 info: 0.1.6
+2023-11-18 09:50:07 info: Extraction complete for source: c:\Users\duidu\.vscode-insiders\extensions\embold-vscode.embold-0.1.6\resources\embold-scanner-archive.zip, destination: c:\Users\duidu\.vscode-insiders\extensions\embold-vscode.embold-0.1.6\temp
+2023-11-18 09:50:12 info: Embold extension version response:
+2023-11-18 09:50:12 info: {"hasSupport":false,"version":"0.9.0.64","changeNotes":"<div> <p>Release Date: 05 May 2022 <br><span>Embold has added 6 new Java rules that will make your code more secure!</span></p> </div>"}
+2023-11-18 09:50:12 info: current version : 
+2023-11-18 09:50:12 info: latest version : 
+2023-11-18 10:01:18 error: SQLITE_ERROR: no such table: issues
+2023-11-18 11:20:46 error: SQLITE_ERROR: no such table: issues
+2023-11-18 11:26:21 error: SQLITE_ERROR: no such table: issues
+2023-11-18 11:59:17 error: SQLITE_ERROR: no such table: issues
+2023-11-18 13:38:06 error: SQLITE_ERROR: no such table: issues
+2023-11-18 15:29:45 error: SQLITE_ERROR: no such table: issues
+2023-11-18 17:16:09 error: SQLITE_ERROR: no such table: issues
+2023-11-18 17:28:17 error: SQLITE_ERROR: no such table: issues
+2023-11-18 17:33:52 error: SQLITE_ERROR: no such table: issues
+2023-11-18 18:06:48 error: SQLITE_ERROR: no such table: issues
+2023-11-18 18:39:45 error: SQLITE_ERROR: no such table: issues
+2023-11-19 10:12:35 error: SQLITE_ERROR: no such table: issues
+2023-11-19 10:18:12 error: SQLITE_ERROR: no such table: issues
+2023-11-19 10:51:05 error: SQLITE_ERROR: no such table: issues
+2023-11-19 11:56:52 error: SQLITE_ERROR: no such table: issues
+2023-11-19 13:02:38 error: SQLITE_ERROR: no such table: issues
+2023-11-19 13:35:32 error: SQLITE_ERROR: no such table: issues
+2023-11-19 14:08:26 error: SQLITE_ERROR: no such table: issues
+2023-11-19 14:41:20 error: SQLITE_ERROR: no such table: issues
+2023-11-19 15:14:15 error: SQLITE_ERROR: no such table: issues
+2023-11-19 15:47:09 error: SQLITE_ERROR: no such table: issues
+2023-11-19 16:20:04 error: SQLITE_ERROR: no such table: issues
+2023-11-23 21:40:57 info: tempDirectory:c:\Users\duidu\.vscode-insiders\extensions\embold-vscode.embold-0.1.6\temp
+2023-11-23 21:40:57 info: Congratulations, your extension "Embold" is now active!
+2023-11-23 21:40:57 info: Current Version Of Embold
+2023-11-23 21:40:57 info: 0.1.6
+2023-11-23 21:40:57 info: Extraction complete for source: c:\Users\duidu\.vscode-insiders\extensions\embold-vscode.embold-0.1.6\resources\embold-scanner-archive.zip, destination: c:\Users\duidu\.vscode-insiders\extensions\embold-vscode.embold-0.1.6\temp
+2023-11-23 21:41:00 info: Embold extension version response:
+2023-11-23 21:41:00 info: {"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2023-11-23 21:41:00 info: current version : 
+2023-11-23 21:41:00 info: latest version : 
+2023-11-23 21:42:01 error: SQLITE_ERROR: no such table: issues
+2023-11-23 21:46:22 error: SQLITE_ERROR: no such table: issues
